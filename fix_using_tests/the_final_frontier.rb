@@ -11,8 +11,3 @@ end
 
 def greet_crew
 "Hello crew"
-
-def engage
-  puts state_log
-  puts greet_crew
-end
