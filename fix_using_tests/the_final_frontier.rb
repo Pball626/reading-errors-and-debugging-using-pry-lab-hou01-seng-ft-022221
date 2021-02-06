@@ -8,6 +8,3 @@ end
 def state_log
   "Captain's Log, star date #{generate_star_date}."
 end
-
-def greet_crew
-"Hello crew"
