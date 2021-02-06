@@ -11,7 +11,9 @@ end
 
 def greet_crew
   "Hello crew."
+end
 
 def engage
   puts state_log
   puts greet_crew
+end
