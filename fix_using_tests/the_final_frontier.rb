@@ -9,6 +9,9 @@ def state_log
   "Captain's Log, star date #{generate_star_date}."
 end
 
+def greet_crew
+  "Hellow crew."
+
 def engage
   puts state_log
   puts greet_crew
