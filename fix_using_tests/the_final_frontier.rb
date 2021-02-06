@@ -10,9 +10,11 @@ def state_log
 end
 
 def greet_crew
-  "Hellow crew."
+  "Hello crew."
 
 def engage
   puts state_log
   puts greet_crew
 end
+
+"Hello crew."
