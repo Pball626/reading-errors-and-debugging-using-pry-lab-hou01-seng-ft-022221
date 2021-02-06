@@ -10,4 +10,5 @@ def state_log
 end
 
 def engage
+  puts state_log
   puts 
