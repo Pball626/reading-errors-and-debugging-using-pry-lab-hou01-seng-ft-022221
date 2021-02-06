@@ -11,4 +11,5 @@ end
 
 def engage
   puts state_log
-  puts 
+  puts greet_crew
+end
